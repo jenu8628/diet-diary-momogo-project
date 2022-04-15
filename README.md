@@ -61,53 +61,6 @@ https://youtu.be/9tAb53YVwNU
 
 
 
-```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-    title       sub3 일정
-   
-	
-    section frontend
-    
-    
-    
-    
-    푸드캘린더: s, 2021-02-01,3d
-    푸드디테일: 2021-02-04,3d
-    검색:2021-02-07,3d
-    커뮤니티:com,2021-02-06,3d
-    today:2021-02-07,3d
-    프로필:2021-02-06,2d
-    
-    section backend
-	
-    서버배포: 2021-02-01,2w
-    유저 : 2021-02-06,3d
-    커뮤니티:2021-02-07,3d
-    food: 2021-02-07,3d
-    
-    
-    
-    section 공통
-	
-    동영상: 2021-02-15,4d
-    
-    
-    
-	
-    
-    
-	
-    
-    
-  
-    
-  
-```
-
-
-
-
 
 
 
